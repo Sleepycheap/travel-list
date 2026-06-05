@@ -4,7 +4,7 @@ First Jonas React Application
 
 ## Things taught in this app
 
-Multiple components in one app. Creating a confirmation window/function. Creating a dynamic list. Sorting.
+Multiple components in one app. Creating a confirmation window/function. Creating a dynamic list. Sorting. Reference lesson: https://github.com/jonasschmedtmann/ultimate-react-course/tree/main/05-travel-list/final
 
 # Getting Started with Create React App
 
