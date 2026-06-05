@@ -1,3 +1,11 @@
+# Far Away Application
+
+First Jonas React Application
+
+## Things taught in this app
+
+Multiple components in one app. Creating a confirmation window/function. Creating a dynamic list. Sorting.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
